@@ -86,3 +86,6 @@ exclude:
 # Collections
 collections:
   board-of-directors:
+
+gems:
+  - jekyll-font-awesome-sass
