@@ -21,11 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
 url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
 
-# Collections
-collections:
-  - board-of-directors
-
-
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
 
@@ -87,3 +82,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# Collections
+collections:
+  - board-of-directors
