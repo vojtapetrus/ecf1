@@ -6,10 +6,14 @@ layout: default
 
 {% include who-we-are.html %}
 
+<section class="director-grid">
 {% for director in site.board-of-directors %}
-  <img src=" {{ director.image }} " alt="ECF">
-  <p> {{ director.name | markdownify }} - {{ director.title | markdownify }} </p>
+  <div>
+    <img src=" {{ director.image }} " alt="ECF">
+    <p> {{ director.name | markdownify }} - {{ director.title | markdownify }} </p>
+  </div>
 {% endfor %}
+</section>
 
 {% include get-involved.html %}
 
