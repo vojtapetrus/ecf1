@@ -82,3 +82,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# Collections
+collections:
+  - board-of-directors
