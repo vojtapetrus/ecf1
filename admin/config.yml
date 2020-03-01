@@ -46,3 +46,14 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Our Work", name: "our-work", widget: "markdown", required: false}
       - {label: "Get Involved", name: "get-involved", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+    # Directors
+  - name: "director"
+    label: "Director"
+    folder: "board-of-directors"
+    sort: "title:asc"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Name", name: "name", widget: "string", required: false}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Title", name: "title", widget: "string", required: false}
