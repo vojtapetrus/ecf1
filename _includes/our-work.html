@@ -1,5 +1,5 @@
 {% if page.our-work and page.our-work != '' %}
-  <p class="intro">
+  <p>
     {{ page.our-work | markdownify | remove: '<p>' | remove: '</p>' }}
   </p>
 {% endif %}

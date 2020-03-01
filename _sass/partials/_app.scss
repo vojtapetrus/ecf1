@@ -12,7 +12,7 @@ body {
   grid-template-rows: auto 1fr auto;
   grid-template-columns:
     [full-start] minmax(1rem, 1fr)
-    [main-start] minmax(0, 80rem) [main-end]
+    [main-start] minmax(0, 65rem) [main-end]
     minmax(1rem, 1fr) [full-end];
 }
 
@@ -184,5 +184,5 @@ footer {
 .director-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 10px;
+  grid-gap: 40px;
 }
