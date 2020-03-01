@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 permalink: /
 section: home
-our-work.content: |-
+our-work:
 
   ## Our Work ##
   Our mission is to support the English College in Prague (ECP) in their efforts to provide high quality English-medium education to young people in Prague.
@@ -12,7 +12,7 @@ our-work.content: |-
    
   The English College Foundation was established 1992 by a group of British enthusiasts who wanted to provide an alternative form of education in Prague, as a contribution to the creation of a democratic society following the Velvet Revolution.
 
-get-involved.content:
+get-involved:
 
   ## Get Involved ##
   If you’re interested in our work and want to support our efforts, why not join as a Member of the English College Foundation?
