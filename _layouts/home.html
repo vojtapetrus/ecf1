@@ -6,10 +6,7 @@ layout: default
 
 {% include who-we-are.html %}
 
-{% for director in site.board-of-directors %}
-  <img src="{{ board-of-directors.image }}" alt="ECF">
-  <p>{{ board-of-directors.name | markdownify }} - {{ board-of-directors.title | markdownify }}</p>
-{% endfor %}
+
 
 {% include get-involved.html %}
 
