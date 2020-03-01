@@ -85,5 +85,4 @@ exclude:
 
 # Collections
 collections:
-  board-of-directors:
-    director: true
+  - board-of-directors
