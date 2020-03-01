@@ -23,7 +23,7 @@ url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & prot
 
 # Collections
 collections:
-  board-of-directors
+  - board-of-directors
 
 
 # Permalink format (/blog/ is ignored for pages)
