@@ -49,7 +49,7 @@ collections: # A list of collections the CMS should be able to edit
     # Directors
   - name: "director"
     label: "Director"
-    folder: "board-of-directors"
+    folder: "_board-of-directors"
     sort: "title:asc"
     create: true
     slug: "{{slug}}"
