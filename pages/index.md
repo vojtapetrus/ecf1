@@ -3,7 +3,8 @@ layout: home
 title: Welcome
 permalink: /
 section: home
-intro_paragraph:
-our-work:
-get-involved:
+intro_paragraph: Hi
+our-work: null
+get-involved: null
 ---
+
