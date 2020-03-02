@@ -1,3 +1,5 @@
-<p>
-    {{ page.get-involved }}
-</p>
+{% if page.our-work and page.our-work != '' %}
+  <p>
+    {{ page.get-involved | markdownify | remove: '<p>' | remove: '</p>' }}
+  </p>
+{% endif %}
