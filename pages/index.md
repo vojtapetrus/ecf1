@@ -27,15 +27,23 @@ who-are-we: |-
 
   HRH The Prince of Wales and President Vaclav Havel
 
-  ### Current Patrons  
+
+
+  ### Current Patrons
 
   HRH The Prince of Wales and Karel Schwarzenberg
+
+
 
   - - -
 
   ### Vice-Presidents
 
   Lord Kerr and Lord Robertson
+
+
+
+  ### Board Members
 get-involved: >-
   ## Get Involved
 
