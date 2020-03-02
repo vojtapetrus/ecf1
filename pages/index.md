@@ -20,7 +20,22 @@ our-work: >-
   enthusiasts who wanted to provide an alternative form of education in Prague,
   as a contribution to the creation of a democratic society following the Velvet
   Revolution.
-who-are-we: null
+who-are-we: |-
+  ## Who We Are
+
+  ### Founder Patrons
+
+  HRH The Prince of Wales and President Vaclav Havel
+
+  ### Current Patrons  
+
+  HRH The Prince of Wales and Karel Schwarzenberg
+
+  - - -
+
+  ### Vice-Presidents
+
+  Lord Kerr and Lord Robertson
 get-involved: >-
   ## Get Involved
 
