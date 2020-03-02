@@ -1,1 +1,5 @@
-{{ page.who-are-we }}
+{% if page.who-are-we and page.who-are-we != '' %}
+  <p>
+    {{ page.who-are-we | markdownify | remove: '<p>' | remove: '</p>' }}
+  </p>
+{% endif %}
